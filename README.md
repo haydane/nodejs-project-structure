@@ -1,2 +1,4 @@
 # nodejs-project-structure
-shell script
+```sh
+  sh nodejs_project_structure.js
+```
